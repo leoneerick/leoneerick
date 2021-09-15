@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leoneerick
+- 👋 Hi, I’m Erick Leone
 - 👀 I’m interested in Web Development and Mobile, i'm also like Coffe :)
 - 🌱 I’m currently learning HTML, CSS, Javascript, Angular etc.
 - 💞️ I’m looking to collaborate on anyone :D
